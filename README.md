@@ -2,10 +2,10 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![26](https://github.com/aliasghardev/scrolling.js/assets/144837096/30ccb1a2-b70b-4c85-bfe0-330fc134fc6d)
+![26](https://github.com/aliasghardev/scrolling-js/assets/144837096/307ed487-0307-4c7e-942d-af90c2a1c3b3)
 
 
-- [Demo Project]()
+- [Demo Project](https://aliasghardev.github.io/scrolling-js/)
 
 - Developed by aliasghar gholami
 
